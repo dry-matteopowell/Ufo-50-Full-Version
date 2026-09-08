@@ -246,3 +246,6 @@ This repository serves as the official landing page for UFO 50. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of UFO 50 today!**
+
+---
+**Last updated:** 2026-09-08 21:31:26 UTC
